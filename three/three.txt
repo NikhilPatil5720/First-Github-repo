@@ -1,0 +1,15 @@
+// ho to use create github account
+
+simple steps:
+
+Go to https://github.com and click on "Sign up" or "Join GitHub".
+Fill out the registration form with your email address, password, and username.
+Verify your email address by clicking on the link sent to you by GitHub.
+You can then set up your profile by adding a profile picture, bio, and other information.
+After creating your account, you can start exploring GitHub and creating your own repositories. You can also search for open-source projects to contribute to or learn from.
+
+Signing up for a new personal account
+
+Navigate to https://github.com.
+Click Sign up.
+Follow the prompts to create your personal account. [1]
